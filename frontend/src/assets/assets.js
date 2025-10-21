@@ -1,66 +1,66 @@
-import basket_icon from "./basket_icon.png";
-import logo from "./logo.png";
-import header_img from "./header_img.png";
-import search_icon from "./search_icon.png";
-import menu_1 from "./menu_1.png";
-import menu_2 from "./menu_2.png";
-import menu_3 from "./menu_3.png";
-import menu_4 from "./menu_4.png";
-import menu_5 from "./menu_5.png";
-import menu_6 from "./menu_6.png";
-import menu_7 from "./menu_7.png";
-import menu_8 from "./menu_8.png";
+const basket_icon = "https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&w=100";
+const logo = "https://images.pexels.com/photos/4162491/pexels-photo-4162491.jpeg?auto=compress&cs=tinysrgb&w=200";
+const header_img = "https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg?auto=compress&cs=tinysrgb&w=1200";
+const search_icon = "https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&w=50";
+const menu_1 = "https://images.pexels.com/photos/4162491/pexels-photo-4162491.jpeg?auto=compress&cs=tinysrgb&w=200";
+const menu_2 = "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=200";
+const menu_3 = "https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg?auto=compress&cs=tinysrgb&w=200";
+const menu_4 = "https://images.pexels.com/photos/4162483/pexels-photo-4162483.jpeg?auto=compress&cs=tinysrgb&w=200";
+const menu_5 = "https://images.pexels.com/photos/3837464/pexels-photo-3837464.jpeg?auto=compress&cs=tinysrgb&w=200";
+const menu_6 = "https://images.pexels.com/photos/3849169/pexels-photo-3849169.jpeg?auto=compress&cs=tinysrgb&w=200";
+const menu_7 = "https://images.pexels.com/photos/4162487/pexels-photo-4162487.jpeg?auto=compress&cs=tinysrgb&w=200";
+const menu_8 = "https://images.pexels.com/photos/3837442/pexels-photo-3837442.jpeg?auto=compress&cs=tinysrgb&w=200";
 
-import food_1 from "./food_1.png";
-import food_2 from "./food_2.png";
-import food_3 from "./food_3.png";
-import food_4 from "./food_4.png";
-import food_5 from "./food_5.png";
-import food_6 from "./food_6.png";
-import food_7 from "./food_7.png";
-import food_8 from "./food_8.png";
-import food_9 from "./food_9.png";
-import food_10 from "./food_10.png";
-import food_11 from "./food_11.png";
-import food_12 from "./food_12.png";
-import food_13 from "./food_13.png";
-import food_14 from "./food_14.png";
-import food_15 from "./food_15.png";
-import food_16 from "./food_16.png";
-import food_17 from "./food_17.png";
-import food_18 from "./food_18.png";
-import food_19 from "./food_19.png";
-import food_20 from "./food_20.png";
-import food_21 from "./food_21.png";
-import food_22 from "./food_22.png";
-import food_23 from "./food_23.png";
-import food_24 from "./food_24.png";
-import food_25 from "./food_25.png";
-import food_26 from "./food_26.png";
-import food_27 from "./food_27.png";
-import food_28 from "./food_28.png";
-import food_29 from "./food_29.png";
-import food_30 from "./food_30.png";
-import food_31 from "./food_31.png";
-import food_32 from "./food_32.png";
+const food_1 = "https://images.pexels.com/photos/4162491/pexels-photo-4162491.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_2 = "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_3 = "https://images.pexels.com/photos/4162483/pexels-photo-4162483.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_4 = "https://images.pexels.com/photos/3837464/pexels-photo-3837464.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_5 = "https://images.pexels.com/photos/3849169/pexels-photo-3849169.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_6 = "https://images.pexels.com/photos/4162487/pexels-photo-4162487.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_7 = "https://images.pexels.com/photos/3837442/pexels-photo-3837442.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_8 = "https://images.pexels.com/photos/3490363/pexels-photo-3490363.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_9 = "https://images.pexels.com/photos/4162491/pexels-photo-4162491.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_10 = "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_11 = "https://images.pexels.com/photos/4162483/pexels-photo-4162483.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_12 = "https://images.pexels.com/photos/3837464/pexels-photo-3837464.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_13 = "https://images.pexels.com/photos/3849169/pexels-photo-3849169.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_14 = "https://images.pexels.com/photos/4162487/pexels-photo-4162487.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_15 = "https://images.pexels.com/photos/3837442/pexels-photo-3837442.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_16 = "https://images.pexels.com/photos/3490363/pexels-photo-3490363.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_17 = "https://images.pexels.com/photos/4162491/pexels-photo-4162491.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_18 = "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_19 = "https://images.pexels.com/photos/4162483/pexels-photo-4162483.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_20 = "https://images.pexels.com/photos/3837464/pexels-photo-3837464.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_21 = "https://images.pexels.com/photos/3849169/pexels-photo-3849169.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_22 = "https://images.pexels.com/photos/4162487/pexels-photo-4162487.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_23 = "https://images.pexels.com/photos/3837442/pexels-photo-3837442.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_24 = "https://images.pexels.com/photos/3490363/pexels-photo-3490363.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_25 = "https://images.pexels.com/photos/4162491/pexels-photo-4162491.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_26 = "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_27 = "https://images.pexels.com/photos/4162483/pexels-photo-4162483.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_28 = "https://images.pexels.com/photos/3837464/pexels-photo-3837464.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_29 = "https://images.pexels.com/photos/3849169/pexels-photo-3849169.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_30 = "https://images.pexels.com/photos/4162487/pexels-photo-4162487.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_31 = "https://images.pexels.com/photos/3837442/pexels-photo-3837442.jpeg?auto=compress&cs=tinysrgb&w=300";
+const food_32 = "https://images.pexels.com/photos/3490363/pexels-photo-3490363.jpeg?auto=compress&cs=tinysrgb&w=300";
 
-import add_icon_white from "./add_icon_white.png";
-import add_icon_green from "./add_icon_green.png";
-import remove_icon_red from "./remove_icon_red.png";
-import app_store from "./app_store.png";
-import play_store from "./play_store.png";
-import linkedin_icon from "./linkedin_icon.png";
-import facebook_icon from "./facebook_icon.png";
-import twitter_icon from "./twitter_icon.png";
-import cross_icon from "./cross_icon.png";
-import selector_icon from "./selector_icon.png";
-import rating_starts from "./rating_starts.png";
-import profile_icon from "./profile_icon.png";
-import bag_icon from "./bag_icon.png";
-import logout_icon from "./logout_icon.png";
-import parcel_icon from "./parcel_icon.png";
-import checked from "./checked.png";
-import un_checked from "./un_checked.png";
+const add_icon_white = "https://via.placeholder.com/30/ffffff/000000?text=%2B";
+const add_icon_green = "https://via.placeholder.com/30/00ff00/000000?text=%2B";
+const remove_icon_red = "https://via.placeholder.com/30/ff0000/ffffff?text=-";
+const app_store = "https://via.placeholder.com/150/000000/ffffff?text=App+Store";
+const play_store = "https://via.placeholder.com/150/000000/ffffff?text=Play+Store";
+const linkedin_icon = "https://via.placeholder.com/40/0077b5/ffffff?text=in";
+const facebook_icon = "https://via.placeholder.com/40/1877f2/ffffff?text=f";
+const twitter_icon = "https://via.placeholder.com/40/1da1f2/ffffff?text=t";
+const cross_icon = "https://via.placeholder.com/30/000000/ffffff?text=X";
+const selector_icon = "https://via.placeholder.com/30/000000/ffffff?text=v";
+const rating_starts = "https://via.placeholder.com/100/ffcc00/000000?text=*****";
+const profile_icon = "https://via.placeholder.com/40/666666/ffffff?text=P";
+const bag_icon = "https://via.placeholder.com/40/666666/ffffff?text=B";
+const logout_icon = "https://via.placeholder.com/40/666666/ffffff?text=L";
+const parcel_icon = "https://via.placeholder.com/40/666666/ffffff?text=P";
+const checked = "https://via.placeholder.com/30/00ff00/ffffff?text=%E2%9C%93";
+const un_checked = "https://via.placeholder.com/30/cccccc/000000?text=o";
 
 export const assets = {
   logo,
@@ -88,35 +88,35 @@ export const assets = {
 
 export const menu_list = [
   {
-    menu_name: "Salad",
+    menu_name: "Whey Protein",
     menu_image: menu_1,
   },
   {
-    menu_name: "Rolls",
+    menu_name: "Mass Gainer",
     menu_image: menu_2,
   },
   {
-    menu_name: "Deserts",
+    menu_name: "Pre-Workout",
     menu_image: menu_3,
   },
   {
-    menu_name: "Sandwich",
+    menu_name: "BCAA",
     menu_image: menu_4,
   },
   {
-    menu_name: "Cake",
+    menu_name: "Creatine",
     menu_image: menu_5,
   },
   {
-    menu_name: "Pure Veg",
+    menu_name: "Vitamins",
     menu_image: menu_6,
   },
   {
-    menu_name: "Pasta",
+    menu_name: "Fat Burner",
     menu_image: menu_7,
   },
   {
-    menu_name: "Noodles",
+    menu_name: "Protein Bar",
     menu_image: menu_8,
   },
 ];
@@ -124,290 +124,290 @@ export const menu_list = [
 export const food_list = [
   {
     _id: "1",
-    name: "Greek salad",
+    name: "Gold Standard Whey",
     image: food_1,
-    price: 12,
+    price: 49,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Salad",
+      "Premium whey protein isolate with 24g protein per serving. Perfect for muscle building and recovery.",
+    category: "Whey Protein",
   },
   {
     _id: "2",
-    name: "Veg salad",
+    name: "Ultra Whey Pro",
     image: food_2,
-    price: 18,
+    price: 55,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Salad",
+      "Fast-absorbing whey protein concentrate with enhanced amino acid profile for maximum gains.",
+    category: "Whey Protein",
   },
   {
     _id: "3",
-    name: "Clover Salad",
+    name: "Isolate Pure",
     image: food_3,
-    price: 16,
+    price: 59,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Salad",
+      "99% pure whey protein isolate, lactose-free and easy to digest. Ideal for lean muscle growth.",
+    category: "Whey Protein",
   },
   {
     _id: "4",
-    name: "Chicken Salad",
+    name: "Hydro Whey Elite",
     image: food_4,
-    price: 24,
+    price: 69,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Salad",
+      "Hydrolyzed whey protein for fastest absorption. Perfect for post-workout recovery.",
+    category: "Whey Protein",
   },
   {
     _id: "5",
-    name: "Lasagna Rolls",
+    name: "Serious Mass 12lb",
     image: food_5,
-    price: 14,
+    price: 65,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Rolls",
+      "High-calorie mass gainer with 50g protein and 250g carbs per serving. Build size fast.",
+    category: "Mass Gainer",
   },
   {
     _id: "6",
-    name: "Peri Peri Rolls",
+    name: "Pro Complex Gainer",
     image: food_6,
-    price: 12,
+    price: 59,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Rolls",
+      "Quality mass gainer with 60g protein blend. Perfect for hardgainers looking to bulk up.",
+    category: "Mass Gainer",
   },
   {
     _id: "7",
-    name: "Chicken Rolls",
+    name: "Mutant Mass",
     image: food_7,
-    price: 20,
+    price: 72,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Rolls",
+      "Extreme mass gainer with 1060 calories per serving. For serious muscle building.",
+    category: "Mass Gainer",
   },
   {
     _id: "8",
-    name: "Veg Rolls",
+    name: "True Mass 1200",
     image: food_8,
-    price: 15,
+    price: 68,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Rolls",
+      "Premium mass gainer with 50g protein and 215g carbs. Fuel your bulking phase.",
+    category: "Mass Gainer",
   },
   {
     _id: "9",
-    name: "Ripple Ice Cream",
+    name: "C4 Original",
     image: food_9,
-    price: 14,
+    price: 35,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Deserts",
+      "Explosive pre-workout with 150mg caffeine and beta-alanine for intense energy and pumps.",
+    category: "Pre-Workout",
   },
   {
     _id: "10",
-    name: "Fruit Ice Cream",
+    name: "Pre-Jym",
     image: food_10,
-    price: 22,
+    price: 45,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Deserts",
+      "Science-based pre-workout with 13 ingredients. Maximum performance and endurance.",
+    category: "Pre-Workout",
   },
   {
     _id: "11",
-    name: "Jar Ice Cream",
+    name: "NO-Xplode",
     image: food_11,
-    price: 10,
+    price: 32,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Deserts",
+      "Advanced pre-workout formula for explosive energy, focus, and muscle pumps.",
+    category: "Pre-Workout",
   },
   {
     _id: "12",
-    name: "Vanilla Ice Cream",
+    name: "Total War",
     image: food_12,
-    price: 12,
+    price: 38,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Deserts",
+      "High-stim pre-workout with 320mg caffeine. Unleash beast mode in the gym.",
+    category: "Pre-Workout",
   },
   {
     _id: "13",
-    name: "Chicken Sandwich",
+    name: "BCAA 5000",
     image: food_13,
-    price: 12,
+    price: 28,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Sandwich",
+      "2:1:1 ratio BCAA powder for muscle recovery and reduced fatigue during training.",
+    category: "BCAA",
   },
   {
     _id: "14",
-    name: "Vegan Sandwich",
+    name: "Xtend BCAA",
     image: food_14,
-    price: 18,
+    price: 32,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Sandwich",
+      "Sugar-free BCAA with electrolytes. Enhance recovery and hydration during workouts.",
+    category: "BCAA",
   },
   {
     _id: "15",
-    name: "Grilled Sandwich",
+    name: "Amino Energy",
     image: food_15,
-    price: 16,
+    price: 29,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Sandwich",
+      "BCAA with natural caffeine for energy and recovery. Perfect for anytime use.",
+    category: "BCAA",
   },
   {
     _id: "16",
-    name: "Bread Sandwich",
+    name: "Modern BCAA+",
     image: food_16,
-    price: 24,
+    price: 35,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Sandwich",
+      "Advanced BCAA formula with vitamin C and electrolytes for optimal performance.",
+    category: "BCAA",
   },
   {
     _id: "17",
-    name: "Cup Cake",
+    name: "Creatine Monohydrate",
     image: food_17,
-    price: 14,
+    price: 22,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Cake",
+      "Pure micronized creatine monohydrate. Increase strength, power, and muscle mass.",
+    category: "Creatine",
   },
   {
     _id: "18",
-    name: "Vegan Cake",
+    name: "Creapure",
     image: food_18,
-    price: 12,
+    price: 28,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Cake",
+      "Premium German-made creatine. The purest and most researched form available.",
+    category: "Creatine",
   },
   {
     _id: "19",
-    name: "Butterscotch Cake",
+    name: "Con-Cret Creatine",
     image: food_19,
-    price: 20,
+    price: 26,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Cake",
+      "Concentrated creatine HCL for better absorption and no bloating.",
+    category: "Creatine",
   },
   {
     _id: "20",
-    name: "Sliced Cake",
+    name: "Kre-Alkalyn",
     image: food_20,
-    price: 15,
+    price: 30,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Cake",
+      "pH-buffered creatine for enhanced stability and absorption. No loading phase needed.",
+    category: "Creatine",
   },
   {
     _id: "21",
-    name: "Garlic Mushroom ",
+    name: "Animal Pak",
     image: food_21,
-    price: 14,
+    price: 42,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Pure Veg",
+      "Complete multivitamin pack with 60+ ingredients. Essential nutrition for athletes.",
+    category: "Vitamins",
   },
   {
     _id: "22",
-    name: "Fried Cauliflower",
+    name: "Opti-Men",
     image: food_22,
-    price: 22,
+    price: 28,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Pure Veg",
+      "75+ active ingredients including vitamins, minerals, and antioxidants for men.",
+    category: "Vitamins",
   },
   {
     _id: "23",
-    name: "Mix Veg Pulao",
+    name: "Orange Triad",
     image: food_23,
-    price: 10,
+    price: 36,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Pure Veg",
+      "Multivitamin with joint and digestion support. Complete health for serious athletes.",
+    category: "Vitamins",
   },
   {
     _id: "24",
-    name: "Rice Zucchini",
+    name: "Vitamin D3",
     image: food_24,
-    price: 12,
+    price: 18,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Pure Veg",
+      "High-potency vitamin D3 5000 IU. Support bone health, immunity, and testosterone.",
+    category: "Vitamins",
   },
   {
     _id: "25",
-    name: "Cheese Pasta",
+    name: "Lipo-6 Black",
     image: food_25,
-    price: 12,
+    price: 45,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Pasta",
+      "Intense thermogenic fat burner for extreme weight loss and energy boost.",
+    category: "Fat Burner",
   },
   {
     _id: "26",
-    name: "Tomato Pasta",
+    name: "Hydroxycut",
     image: food_26,
-    price: 18,
+    price: 38,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Pasta",
+      "America's #1 selling weight loss supplement with scientifically researched ingredients.",
+    category: "Fat Burner",
   },
   {
     _id: "27",
-    name: "Creamy Pasta",
+    name: "L-Carnitine",
     image: food_27,
-    price: 16,
+    price: 32,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Pasta",
+      "Pure L-Carnitine for fat metabolism and energy production during workouts.",
+    category: "Fat Burner",
   },
   {
     _id: "28",
-    name: "Chicken Pasta",
+    name: "CLA 1250",
     image: food_28,
-    price: 24,
+    price: 26,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Pasta",
+      "Conjugated linoleic acid to support fat loss and lean muscle retention.",
+    category: "Fat Burner",
   },
   {
     _id: "29",
-    name: "Buttter Noodles",
+    name: "Quest Bar",
     image: food_29,
-    price: 14,
+    price: 3,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Noodles",
+      "20g protein bar with low sugar. Delicious and convenient nutrition on the go.",
+    category: "Protein Bar",
   },
   {
     _id: "30",
-    name: "Veg Noodles",
+    name: "RX Bar",
     image: food_30,
-    price: 12,
+    price: 3,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Noodles",
+      "Whole food protein bar with egg whites, dates, and nuts. Clean ingredients.",
+    category: "Protein Bar",
   },
   {
     _id: "31",
-    name: "Somen Noodles",
+    name: "ONE Bar",
     image: food_31,
-    price: 20,
+    price: 3,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Noodles",
+      "Birthday cake flavored protein bar with 20g protein and only 1g sugar.",
+    category: "Protein Bar",
   },
   {
     _id: "32",
-    name: "Cooked Noodles",
+    name: "Built Bar",
     image: food_32,
-    price: 15,
+    price: 3,
     description:
-      "Food provides essential nutrients for overall health and well-being",
-    category: "Noodles",
+      "Low-calorie protein bar covered in chocolate. Satisfy cravings guilt-free.",
+    category: "Protein Bar",
   },
 ];

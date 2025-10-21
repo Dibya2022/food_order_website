@@ -12,7 +12,7 @@ const Add = () => {
         name: "",
         description: "",
         price: "",
-        category: "Salad"
+        category: "Whey Protein"
     });
 
     const onSubmitHandler = async (event) => {
@@ -73,14 +73,14 @@ const Add = () => {
                     <div className='add-category flex-col'>
                         <p>Product category</p>
                         <select name='category' onChange={onChangeHandler} >
-                            <option value="Salad">Salad</option>
-                            <option value="Rolls">Rolls</option>
-                            <option value="Deserts">Deserts</option>
-                            <option value="Sandwich">Sandwich</option>
-                            <option value="Cake">Cake</option>
-                            <option value="Pure Veg">Pure Veg</option>
-                            <option value="Pasta">Pasta</option>
-                            <option value="Noodles">Noodles</option>
+                            <option value="Whey Protein">Whey Protein</option>
+                            <option value="Mass Gainer">Mass Gainer</option>
+                            <option value="Pre-Workout">Pre-Workout</option>
+                            <option value="BCAA">BCAA</option>
+                            <option value="Creatine">Creatine</option>
+                            <option value="Vitamins">Vitamins</option>
+                            <option value="Fat Burner">Fat Burner</option>
+                            <option value="Protein Bar">Protein Bar</option>
                         </select>
                     </div>
                     <div className='add-price flex-col'>

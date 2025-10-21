@@ -1,12 +1,12 @@
-import logo from './logo.png'
-import add_icon from './add_icon.png'
-import order_icon from './order_icon.png'
-import profile_image from './profile_image.png'
-import upload_area from './upload_area.png'
-import parcel_icon from './parcel_icon.png'
+const logo = "https://images.pexels.com/photos/4162491/pexels-photo-4162491.jpeg?auto=compress&cs=tinysrgb&w=200";
+const add_icon = "https://via.placeholder.com/40/00ff00/ffffff?text=%2B";
+const order_icon = "https://via.placeholder.com/40/666666/ffffff?text=O";
+const profile_image = "https://via.placeholder.com/100/666666/ffffff?text=Admin";
+const upload_area = "https://via.placeholder.com/200/cccccc/000000?text=Upload+Image";
+const parcel_icon = "https://via.placeholder.com/40/666666/ffffff?text=P";
 
-export const url = 'https://food-order-website-ic7n.onrender.com'
-export const currency = '₹'
+export const url = 'http://localhost:4000'
+export const currency = '$'
 
 export const assets ={
     logo,
